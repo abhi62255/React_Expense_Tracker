@@ -1,6 +1,8 @@
 # expense-tracker
 
-## Getting started 
+A simple react app to show redus usage
+
+## Getting started
 
 ```bash
 npm i
