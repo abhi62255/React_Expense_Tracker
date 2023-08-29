@@ -8,3 +8,5 @@ A simple react app to show redus usage
 npm i
 npm start
 ```
+
+APP URL:https://react-expense-tracker-ebon.vercel.app/
